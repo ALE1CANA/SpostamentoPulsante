@@ -1,0 +1,16 @@
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.Form1.resources
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.csproj.GenerateResource.cache
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.AssemblyInfoInputs.cache
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.AssemblyInfo.cs
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.csproj.CoreCompileInputs.cache
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\bin\Debug\net6.0-windows\SpostamentoPulsante.exe
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\bin\Debug\net6.0-windows\SpostamentoPulsante.deps.json
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\bin\Debug\net6.0-windows\SpostamentoPulsante.runtimeconfig.json
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\bin\Debug\net6.0-windows\SpostamentoPulsante.dll
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\bin\Debug\net6.0-windows\SpostamentoPulsante.pdb
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.dll
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\refint\SpostamentoPulsante.dll
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.pdb
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.genruntimeconfig.cache
+C:\Users\salvi.21205\Desktop\SpostamentoPulsante\SpostamentoPulsante\obj\Debug\net6.0-windows\ref\SpostamentoPulsante.dll
